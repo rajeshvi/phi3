@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "wmT2iu0RMRjBnc7zd65hcQa4KRcB457+Hsl+rrWUDSeuVwVMwqm/ZNKG7r7rN17+F/j+0HNCsDFcgxUlW+lJRw==",
+  "success": true,
+  "projectFilePath": "C:\\code\\phi3\\phi3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajes\\.nuget\\packages\\azure.ai.openai\\1.0.0-beta.15\\azure.ai.openai.1.0.0-beta.15.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\microsoft.semantickernel\\1.13.0\\microsoft.semantickernel.1.13.0.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\microsoft.semantickernel.abstractions\\1.13.0\\microsoft.semantickernel.abstractions.1.13.0.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\microsoft.semantickernel.connectors.openai\\1.13.0\\microsoft.semantickernel.connectors.openai.1.13.0.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\microsoft.semantickernel.core\\1.13.0\\microsoft.semantickernel.core.1.13.0.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\system.text.json\\8.0.2\\system.text.json.8.0.2.nupkg.sha512",
+    "C:\\Users\\rajes\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
